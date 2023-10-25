@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Criando a aplicação
+
+Vamos executar o comando `npx create-react-app .`, que criará nossa aplicação React e, com o ., cria na pasta que está aberta. O projeto será criado com todas as dependências.
+
+Para a aplicação rodar, o comando utilizado é `npm start`.
